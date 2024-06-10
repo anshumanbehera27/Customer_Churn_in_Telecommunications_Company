@@ -46,6 +46,12 @@ Using machine learning, generate a target list by identifying customers most lik
 
 ### Comparisation OF ALL the  Model 
 
-<img src="images/Solution.png" alt="Sample Image" hight= "1000" width="1000"/>
+<img src="images/Model.png" alt="Sample Image" hight= "1000" width="1000"/>
+
+### Conclusion 
+
+In our customer churn prediction project, we evaluated multiple machine learning models, including Decision Tree, Random Forest, and Gradient Boosting classifiers, to identify at-risk customers. After thorough data analysis and cleaning, we found that the Decision Tree achieved 79% accuracy, performing well for non-churn predictions but less effectively for churn predictions. The Random Forest model showed better balance with a 92% accuracy, achieving around 90% precision and recall for churn predictions and 94% for non-churn. The Gradient Boosting classifier outperformed both, with a 96% accuracy and balanced precision and recall of 96% for non-churn and 97% for churn. This high performance makes Gradient Boosting the most effective model for predicting customer churn, enabling proactive customer retention strategies.
+
+## How to Run on Your local 
 
 
